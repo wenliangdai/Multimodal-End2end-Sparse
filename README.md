@@ -34,7 +34,7 @@ TODO
 
 ### Dataset
 
-To run our code directly, you can download the processed data from [here](). Unzip it and the tree structure of the data direcotry looks like this:
+To run our code directly, you can download the processed data from [here](https://hkustconnect-my.sharepoint.com/:u:/g/personal/wdaiai_connect_ust_hk/EbEzVnCduqVNuT_LvuRApVQBagraPx7nGqIEHgdnGPjN7g?e=zeMtct). Unzip it and the tree structure of the data direcotry looks like this:
 
 ```
 ./data
