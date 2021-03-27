@@ -26,6 +26,8 @@ If you work is inspired by our paper or code, please cite it, thanks!
 }
 </pre>
 
+You can also check our blog [here](https://nlp.caire.hkust.edu.hk/blog/2021/sparse-multimodal/).
+
 ## Dataset
 
 As mentioned in our paper, one of the contribution is that we reorganize two datasets (IEMOCAP and CMU-MOSEI) to enable training from the raw data. To the best of our knowledge, prior to our work, papers using these two datasets are based on pre-extracted features, and we did not find a way to map those features back with raw data. Therefore, we did a heavy reorganization of these datasets (refer to Section 3 of the paper for more details).
