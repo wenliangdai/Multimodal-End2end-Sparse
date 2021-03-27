@@ -26,7 +26,7 @@ If you work is inspired by our paper or code, please cite it, thanks!
 }
 </pre>
 
-You can also check our blog [here](https://nlp.caire.hkust.edu.hk/blog/2021/sparse-multimodal/).
+You can also check our blog [here](https://nlp.caire.hkust.edu.hk/blog/2021/sparse-multimodal/) 😊.
 
 ## Dataset
 
