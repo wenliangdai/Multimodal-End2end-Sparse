@@ -28,7 +28,11 @@ If you work is inspired by our paper or code, please cite it, thanks!
 
 ## Dataset
 
-TODO
+As mentioned in our paper, one of the contribution is that we reorganize two datasets (IEMOCAP and CMU-MOSEI) to enable training from the raw data. To the best of our knowledge, prior to our work, papers using these two datasets are based on pre-extracted features, and we did not find a way to map those features back with raw data. Therefore, we did a heavy reorganization of these datasets (refer to Section 3 of the paper for more details).
+
+The raw data can be downloaded from [CMU-MOSEI](http://immortal.multicomp.cs.cmu.edu/raw_datasets/CMU_MOSEI.zip) (~120GB) and [IEMOCAP](https://hkustconnect-my.sharepoint.com/:u:/g/personal/wdaiai_connect_ust_hk/EdZoawxqQ01Ej38NpflFZPEB4zYR9RxIPcaAPcFU77qFgQ?e=7efIl0) (~16.5GB). However, for the IEMOCAP, you need to [request for a permission](https://sail.usc.edu/iemocap/iemocap_release.htm) from the original author, then we can give the passcode to download.
+
+We provide two Python scripts as examples of processing the raw data in the `./preprocessing` folder. Alternatively, you can also download our processed raw data for training directly, as shown in the section below.
 
 ## Preparation
 
