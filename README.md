@@ -19,10 +19,21 @@
 If you work is inspired by our paper or code, please cite it, thanks!
 
 <pre>
-@inproceedings{Dai2021MultimodalES,
-  title={Multimodal End-to-End Sparse Model for Emotion Recognition},
-  author={Wenliang Dai and Samuel Cahyawijaya and Zihan Liu and Pascale Fung},
-  year={2021}
+@inproceedings{dai-etal-2021-multimodal,
+    title = "Multimodal End-to-End Sparse Model for Emotion Recognition",
+    author = "Dai, Wenliang  and
+      Cahyawijaya, Samuel  and
+      Liu, Zihan  and
+      Fung, Pascale",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.naacl-main.417",
+    doi = "10.18653/v1/2021.naacl-main.417",
+    pages = "5305--5316",
+    abstract = "Existing works in multimodal affective computing tasks, such as emotion recognition and personality recognition, generally adopt a two-phase pipeline by first extracting feature representations for each single modality with hand crafted algorithms, and then performing end-to-end learning with extracted features. However, the extracted features are fixed and cannot be further fine-tuned on different target tasks, and manually finding feature extracting algorithms does not generalize or scale well to different tasks, which can lead to sub-optimal performance. In this paper, we develop a fully end-to-end model that connects the two phases and optimizes them jointly. In addition, we restructure the current datasets to enable the fully end-to-end training. Furthermore, to reduce the computational overhead brought by the end-to-end model, we introduce a sparse cross-modal attention mechanism for the feature extraction. Experimental results show that our fully end-to-end model significantly surpasses the current state-of-the-art models based on the two-phase pipeline. Moreover, by adding the sparse cross-modal attention, our model can maintain the performance with around half less computation in the feature extraction part of the model.",
 }
 </pre>
 
