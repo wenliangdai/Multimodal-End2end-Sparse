@@ -174,8 +174,8 @@ def eval_iemocap(preds, truths, best_thresholds=None):
         pred_i = preds[:, i]
         truth_i = truths[:, i]
 
-        acc = weighted_acc(pred_i, truth_i, verbose=False)
-        # acc = accuracy_score(truth_i, pred_i)
+        # acc = weighted_acc(pred_i, truth_i, verbose=False)
+        acc = accuracy_score(truth_i, pred_i)
         recall = recall_score(truth_i, pred_i)
         precision = precision_score(truth_i, pred_i)
         f1 = f1_score(truth_i, pred_i)
