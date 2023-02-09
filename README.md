@@ -10,7 +10,7 @@
 
 [[Paper]](https://www.aclweb.org/anthology/2021.naacl-main.417/) accepted at the NAACL 2021:
 
-**Multimodal End-to-End Sparse Model for Emotion Recognition**, by **[Wenliang Dai *](https://wenliangdai.github.io/)**, Samuel Cahyawijaya *, [Zihan Liu](https://zliucr.github.io/), Pascale Fung.
+**Multimodal End-to-End Sparse Model for Emotion Recognition**, by **[Wenliang Dai *](https://wenliangdai.github.io/)**, Samuel Cahyawijaya *, [Zihan Liu](https://zliucr.github.io/), [Pascale Fung](https://pascale.home.ece.ust.hk/).
 
 ## Paper Abstract
 
